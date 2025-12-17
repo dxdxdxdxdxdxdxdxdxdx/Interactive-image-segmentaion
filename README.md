@@ -1,4 +1,5 @@
 # Interactive image segmentation
+Welcome to the universe of interactive image segmentation!
 
 ------
 
